@@ -15,10 +15,10 @@ from nltk.collocations import *
 from nltk.corpus import stopwords
 import sqlite3
 
-ckey = "dyEUd6eufLlQjQI88nV2yK08T"
-csecret = "SntWGRiUuiWCHCRPh3CuQZXyeUGnZD4elDV7s7Y4MeE4G0PkEn"
-atoken = "822730674671128577-aj28Ykky6KpagwRk6DZe0Yew2ode0o6"
-asecret = "u5i6a60yEKsk4WZ2oKqUpyKRZx5KvkwlyiUAhZK8hONO6"
+ckey = 
+csecret = 
+atoken = 
+asecret = 
 
 
 
